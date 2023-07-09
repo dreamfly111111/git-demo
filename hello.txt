@@ -12,3 +12,4 @@ have a try hot-fix test master try22
 1111111
 我是本地库新加的
 我是远程库新加的
+测试用ssh拉取代码
